@@ -27,3 +27,9 @@ body {
   position: relative;
   right: 50%;
 }
+#main-nav ul li a {
+  padding: 10px 25px;
+  display: block;
+  text-decoration: none;
+  color: #ccc;
+}
