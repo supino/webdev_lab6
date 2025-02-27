@@ -98,3 +98,7 @@ h2 strong {
   width: 960px;
   text-align: center;
 }
+strong {
+  font-weight: 900;
+  font-size: 48px;
+}
