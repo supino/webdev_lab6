@@ -94,3 +94,7 @@ h2 strong {
   background-color: #ccc;
   color: #333;
 }
+#center {
+  width: 960px;
+  text-align: center;
+}
