@@ -9,3 +9,8 @@ body {
   font-family: 'Devonshire', cursive;
   color: #E35335;
 }
+#main-nav {
+  float: left;
+  width: 100%;
+  background-color: #333;
+}
