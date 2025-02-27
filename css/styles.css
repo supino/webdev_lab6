@@ -33,3 +33,7 @@ body {
   text-decoration: none;
   color: #ccc;
 }
+#main-nav ul li a:hover {
+  background-color: #ccc;
+  color: #333;
+}
