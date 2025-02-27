@@ -61,6 +61,11 @@ h2 strong {
   background-color: white;
   margin: 10px 0 10px 20px;
 }
+#side-content {
+  min-height: 150px;
+  width: 200px;
+  float: left;
+}
 #main-nav {
   float: left;
   width: 100%;
