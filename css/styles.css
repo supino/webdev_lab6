@@ -49,6 +49,10 @@ body {
   float: left;
   margin-left: 15px;
 }
+h2 strong {
+  font-size: 2em;
+  font-weight: 900;
+}
 #main-nav {
   float: left;
   width: 100%;
